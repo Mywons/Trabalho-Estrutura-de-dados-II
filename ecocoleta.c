@@ -169,7 +169,15 @@ void removerDaHash(int codigo) {
     }
 }
 
-/* ===================== FILA DE PRIORIDADE (HEAP) ===================== */
+/* ===================== FILA DE PRIORIDADE (HEAP) =====================
+ * O heap e uma arvore binaria guardada dentro de um vetor:
+ *   - a raiz (item de maior preferencia) fica sempre em itens[0];
+ *   - o pai da posicao i esta em (i - 1) / 2;
+ *   - os filhos da posicao i estao em 2*i + 1 (esquerdo) e 2*i + 2 (direito).
+ * Regra do heap: todo pai tem preferencia sobre seus filhos. Assim, a
+ * proxima coleta e sempre itens[0], consultada em O(1). Inserir e remover
+ * custam O(log n), pois o item so sobe ou desce um ramo da arvore.
+ */
 
 const char *nomePrioridade(int prioridade) {
     switch (prioridade) {
@@ -231,7 +239,9 @@ int buscarNaFila(const FilaPrioridade *f, int codigo) {
     return -1;
 }
 
-/* Insere na fila. Retorna 1 em caso de sucesso e 0 se faltar memoria. */
+/* Insere na fila. Retorna 1 em caso de sucesso e 0 se faltar memoria.
+ * Se o vetor estiver cheio, a capacidade dobra com realloc (vetor dinamico).
+ * O novo item entra no final e sobe ate a posicao correta. */
 int inserirNaFila(FilaPrioridade *f, int codigo, int prioridade) {
     if (f->tamanho == f->capacidade) {
         int novaCapacidade = (f->capacidade == 0) ? CAPACIDADE_INICIAL_FILA : f->capacidade * 2;
@@ -248,7 +258,11 @@ int inserirNaFila(FilaPrioridade *f, int codigo, int prioridade) {
     return 1;
 }
 
-/* Remove o item da posicao i, mantendo a propriedade do heap. */
+/* Remove o item da posicao i, mantendo a propriedade do heap.
+ * O ultimo item do vetor ocupa o lugar do removido. Como ele pode ter mais
+ * ou menos preferencia que a nova vizinhanca, tentamos subir e descer:
+ * so um dos dois realmente movimenta o item. Para realizar a coleta,
+ * i = 0 (raiz), e entao so a descida tem efeito. */
 void removerDaFilaPorIndice(FilaPrioridade *f, int i) {
     if (i < 0 || i >= f->tamanho) return;
     f->tamanho--;
