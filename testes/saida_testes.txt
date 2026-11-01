@@ -1,0 +1,958 @@
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: A fila de coleta esta vazia. Nao ha coletas pendentes.
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: A fila de coleta esta vazia. Nao ha coleta a realizar.
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: A fila de coleta esta vazia.
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: 
+--- CADASTRO DE CONTENTOR ---
+Codigo (maior que zero): Local: Bairro: Capacidade em litros (maior que zero): Ocupacao (0 a 100%): Contentor cadastrado com sucesso. Posicao hash: 3
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: 
+--- CADASTRO DE CONTENTOR ---
+Codigo (maior que zero): Local: Bairro: Capacidade em litros (maior que zero): Ocupacao (0 a 100%): Contentor cadastrado com sucesso. Posicao hash: 4
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: 
+--- CADASTRO DE CONTENTOR ---
+Codigo (maior que zero): Local: Bairro: Capacidade em litros (maior que zero): Ocupacao (0 a 100%): Contentor cadastrado com sucesso. Posicao hash: 5
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: 
+--- CADASTRO DE CONTENTOR ---
+Codigo (maior que zero): Local: Bairro: Capacidade em litros (maior que zero): Ocupacao (0 a 100%): Contentor cadastrado com sucesso. Posicao hash: 6
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: 
+--- CADASTRO DE CONTENTOR ---
+Codigo (maior que zero): Local: Bairro: Capacidade em litros (maior que zero): Ocupacao (0 a 100%): Contentor cadastrado com sucesso. Posicao hash: 0
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: 
+--- CADASTRO DE CONTENTOR ---
+Codigo (maior que zero): Local: Bairro: Capacidade em litros (maior que zero): Ocupacao (0 a 100%): Contentor cadastrado com sucesso. Posicao hash: 1
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: 
+--- SOLICITAR COLETA ---
+Codigo do contentor: ERRO: contentor 999 nao encontrado (codigo inexistente).
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: 
+--- SOLICITAR COLETA ---
+Codigo do contentor: ERRO: o contentor 105 esta com 40% de ocupacao. So entram na fila contentores com ocupacao a partir de 70%.
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: 
+--- SOLICITAR COLETA ---
+Codigo do contentor: Prioridades: 1 - NORMAL | 2 - ALTA | 3 - URGENTE
+Prioridade: Contentor 101 inserido na fila com prioridade NORMAL. Itens na fila: 1
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: 
+--- SOLICITAR COLETA ---
+Codigo do contentor: Prioridades: 1 - NORMAL | 2 - ALTA | 3 - URGENTE
+Prioridade: Contentor 102 inserido na fila com prioridade ALTA. Itens na fila: 2
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: 
+--- SOLICITAR COLETA ---
+Codigo do contentor: Prioridades: 1 - NORMAL | 2 - ALTA | 3 - URGENTE
+Prioridade: Contentor 103 inserido na fila com prioridade URGENTE. Itens na fila: 3
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: 
+--- SOLICITAR COLETA ---
+Codigo do contentor: Prioridades: 1 - NORMAL | 2 - ALTA | 3 - URGENTE
+Prioridade: Contentor 104 inserido na fila com prioridade ALTA. Itens na fila: 4
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: 
+--- SOLICITAR COLETA ---
+Codigo do contentor: ERRO: o contentor 101 ja esta na fila de coleta (codigo repetido).
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: 
+--- FILA DE COLETA (4 item(ns)) ---
+1. [URGENTE] chegada #3 - Codigo: 103 | Local: Hospital | Bairro: Centro | Capacidade: 1200 litros | Ocupacao: 95%
+2. [ALTA] chegada #2 - Codigo: 102 | Local: Escola Municipal | Bairro: Jardim | Capacidade: 800 litros | Ocupacao: 85%
+3. [ALTA] chegada #4 - Codigo: 104 | Local: Mercado | Bairro: Vila Nova | Capacidade: 500 litros | Ocupacao: 75%
+4. [NORMAL] chegada #1 - Codigo: 101 | Local: Praca Central | Bairro: Centro | Capacidade: 1000 litros | Ocupacao: 90%
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: Proxima coleta (prioridade URGENTE):
+Codigo: 103 | Local: Hospital | Bairro: Centro | Capacidade: 1200 litros | Ocupacao: 95%
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: Coleta realizada no contentor 103 (prioridade URGENTE).
+Ocupacao anterior: 95%
+Ocupacao atualizada para 0%.
+Codigo: 103 | Local: Hospital | Bairro: Centro | Capacidade: 1200 litros | Ocupacao: 0%
+Itens restantes na fila: 3
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: Digite o codigo do contentor: Contentor encontrado pela tabela hash:
+Codigo: 103 | Local: Hospital | Bairro: Centro | Capacidade: 1200 litros | Ocupacao: 0%
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: Proxima coleta (prioridade ALTA):
+Codigo: 102 | Local: Escola Municipal | Bairro: Jardim | Capacidade: 800 litros | Ocupacao: 85%
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: Coleta realizada no contentor 102 (prioridade ALTA).
+Ocupacao anterior: 85%
+Ocupacao atualizada para 0%.
+Codigo: 102 | Local: Escola Municipal | Bairro: Jardim | Capacidade: 800 litros | Ocupacao: 0%
+Itens restantes na fila: 2
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: Proxima coleta (prioridade ALTA):
+Codigo: 104 | Local: Mercado | Bairro: Vila Nova | Capacidade: 500 litros | Ocupacao: 75%
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: 
+--- SOLICITAR COLETA ---
+Codigo do contentor: Prioridades: 1 - NORMAL | 2 - ALTA | 3 - URGENTE
+Prioridade: Contentor 106 inserido na fila com prioridade URGENTE. Itens na fila: 3
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: Codigo do contentor: Ocupacao atual: 80%
+Nova ocupacao (0 a 100): Ocupacao atualizada com sucesso.
+Ocupacao abaixo de 70%: contentor 106 retirado da fila de coleta.
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: 
+--- FILA DE COLETA (2 item(ns)) ---
+1. [ALTA] chegada #4 - Codigo: 104 | Local: Mercado | Bairro: Vila Nova | Capacidade: 500 litros | Ocupacao: 75%
+2. [NORMAL] chegada #1 - Codigo: 101 | Local: Praca Central | Bairro: Centro | Capacidade: 1000 litros | Ocupacao: 90%
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: Codigo do contentor a remover: Contentor 104 tambem foi retirado da fila de coleta.
+Contentor removido da lista e da tabela hash.
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: 
+--- FILA DE COLETA (1 item(ns)) ---
+1. [NORMAL] chegada #1 - Codigo: 101 | Local: Praca Central | Bairro: Centro | Capacidade: 1000 litros | Ocupacao: 90%
+
+==================================================
+       SISTEMA DE CONTROLE DE CONTENTORES
+                     ECOCOLETA
+==================================================
+GERENCIAMENTO DE CONTENTORES
+1 - Cadastrar contentor
+2 - Buscar contentor
+3 - Atualizar ocupacao
+4 - Remover contentor
+5 - Listar contentores
+6 - Mostrar contentor mais urgente
+7 - Mostrar ordem de coleta
+
+MAPA E ROTAS
+8 - Cadastrar ponto
+9 - Cadastrar conexao entre pontos
+10 - Mostrar pontos e conexoes
+11 - Mostrar matriz de adjacencia
+12 - Mostrar vizinhos de um ponto
+13 - Calcular menor caminho entre pontos
+14 - Mostrar tabela hash (demonstracao de colisoes)
+
+FILA DE PRIORIDADE DE COLETA
+15 - Solicitar coleta (inserir contentor na fila)
+16 - Consultar proxima coleta
+17 - Realizar coleta
+18 - Mostrar fila de coleta
+0 - Sair
+==================================================
+Digite a opcao: 5 contentor(es) liberado(s) e fila de coleta desalocada.
+Memoria liberada. Sistema encerrado.
